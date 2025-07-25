@@ -7,7 +7,7 @@ This project is an end-to-end image classification pipeline to detect whether a 
 This dataset was sourced from Kaggle:
 **[Face Mask Dataset on Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)**
 
-### Summary:
+### Summary :
 
 > Face Mask Detection Dataset
 > In response to global COVID-19 lockdowns, face masks became mandatory in public spaces. This dataset enables training deep learning models to detect masked and unmasked faces using RGB images.
@@ -23,13 +23,13 @@ This dataset was sourced from Kaggle:
 >   * **Training accuracy**: \~94%
 >   * **Validation accuracy**: \~96%
 
-## Tools & Technologies
+## Tools :
 
 * **Python**
 * **TensorFlow / Keras**
 * **Matplotlib / Seaborn / NumPy / sklearn**
 
-## Predictions (Sample Visualization)
+## Predictions :
 
 * The model was tested on random images from both classes
 * Images were plotted with:
@@ -38,7 +38,7 @@ This dataset was sourced from Kaggle:
   * **Predicted label**
   * **Model confidence score**
 
-## How to Use
+## How to Use :
 
 1. Download and extract the dataset from Kaggle:
    [https://www.kaggle.com/datasets/omkargurav/face-mask-dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
