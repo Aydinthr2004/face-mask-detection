@@ -7,7 +7,7 @@ This project is an end-to-end image classification pipeline to detect whether a 
 ##  Dataset :
 
 This dataset was sourced from Kaggle:
-🔗 **[Face Mask Dataset on Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)**
+**[Face Mask Dataset on Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)**
 
 ### Summary:
 
@@ -43,7 +43,7 @@ This dataset was sourced from Kaggle:
   * **Model confidence score**
 
 
-## 🚀 How to Use
+## How to Use
 
 1. Download and extract the dataset from Kaggle:
    [https://www.kaggle.com/datasets/omkargurav/face-mask-dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
