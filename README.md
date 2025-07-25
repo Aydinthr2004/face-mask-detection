@@ -23,11 +23,11 @@ This dataset was sourced from Kaggle:
 >   * **Training accuracy**: \~94%
 >   * **Validation accuracy**: \~96%
 
-## 📸 Sample Predictions
+##  Sample Predictions :
 
 Below are example predictions from the trained model on unseen images:
 
-![Sample Predictions](https://github.com/Aydinthr2004/face-mask-detection/issues/1#issue-3262733267)
+<img width="1951" height="796" alt="sample_predictions" src="https://github.com/user-attachments/assets/ae054938-6704-46b8-ae96-f59e52476875" />
 
 ## Tools :
 
