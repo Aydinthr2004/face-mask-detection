@@ -2,8 +2,6 @@
 
 This project is an end-to-end image classification pipeline to detect whether a person is wearing a face mask or not, using Convolutional Neural Networks (CNN) in TensorFlow/Keras.
 
-
-
 ##  Dataset :
 
 This dataset was sourced from Kaggle:
@@ -25,13 +23,11 @@ This dataset was sourced from Kaggle:
 >   * **Training accuracy**: \~94%
 >   * **Validation accuracy**: \~96%
 
-
 ## Tools & Technologies
 
 * **Python**
 * **TensorFlow / Keras**
 * **Matplotlib / Seaborn / NumPy / sklearn**
-
 
 ## Predictions (Sample Visualization)
 
@@ -42,7 +38,6 @@ This dataset was sourced from Kaggle:
   * **Predicted label**
   * **Model confidence score**
 
-
 ## How to Use
 
 1. Download and extract the dataset from Kaggle:
@@ -50,4 +45,3 @@ This dataset was sourced from Kaggle:
 2. Upload the zipped data (`data.zip`) with folders `with_mask/` and `without_mask/` inside
 3. Run the Colab notebook step-by-step
 4. Trained model will predict and visualize results
-
